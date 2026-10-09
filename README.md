@@ -1,11 +1,5 @@
 # MXS Dashboard Setup Guide
 
-
-
----
-
-
-
  ## Prerequisites
 
 
