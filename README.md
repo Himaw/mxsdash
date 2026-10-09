@@ -1,5 +1,8 @@
 # MXS Dashboard Setup Guide
 
+This guide is for setting up this split view kind of WSL terminal for easy observation
+<img width="3437" height="1391" alt="image" src="https://github.com/user-attachments/assets/c06c5ec1-bee0-4211-b43c-c812f2e3951c" />
+
  ## Prerequisites
 
 
